@@ -1,0 +1,25 @@
+{
+  "name": "simple-nodejs-app",
+  "version": "1.0.0",
+  "description": "Basic node js handson",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start-dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paru429/simple-nodejs-app.git"
+  },
+  "author": "Parvathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paru429/simple-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/paru429/simple-nodejs-app#readme",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.4"
+  }
+}
